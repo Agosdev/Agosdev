@@ -4,3 +4,6 @@
 
 
  ⚡ En constante aprendizaje
+ ⚡ Buscando aportar valor
+ ⚡ Trabajo en equipo
+
