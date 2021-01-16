@@ -1,7 +1,6 @@
 ¡Bienvenidos! 👋
 
-https://user-images.githubusercontent.com/67771188/104816788-04de8880-57fc-11eb-9e07-f63845af89e5.mp4
+![Ravazenghi (1)](https://user-images.githubusercontent.com/67771188/104816920-f93f9180-57fc-11eb-8e7e-2d96000c04b8.gif)
 
 
- ⚡ 
-
+ ⚡ En constante aprendizaje
