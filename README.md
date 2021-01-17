@@ -9,3 +9,7 @@
 
  Diseño UX e ilustraciones en: 
  www.behance.net/agostinaravazenghi
+
+ Desarrollo web
+ https://agosdev.github.io/Obsekia-deco/
+ https://agosdev.github.io/Potter-JsGame/
