@@ -4,8 +4,7 @@
 
 
  ⚡ En constante aprendizaje
- ⚡ Buscando aportar valor
- ⚡ Y aprender en equipo
+ ⚡ Buscando aportar valor y aprender de los demás
 
  Diseño UX e ilustraciones en: 
  www.behance.net/agostinaravazenghi
