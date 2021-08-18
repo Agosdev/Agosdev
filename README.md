@@ -6,9 +6,6 @@
  ⚡ En constante aprendizaje
  ⚡ Buscando aportar valor y aprender de los demás
 
- Desarrollo web
- https://agosdev.github.io/Obsekia-deco/
- https://agosdev.github.io/Potter-JsGame/
 
 
 
