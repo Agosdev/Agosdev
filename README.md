@@ -8,13 +8,10 @@
 
 Stack:
 
-Front
+Front:
 ⚡HTML  CSS  JAVASCRIPT  REACT JS   Sass  Bootstrap  Tailwind   
-Back
-⚡NODE & EXPRESS  PHP  ⚡
-Database
-⚡MONGODB  MYSQL  ⚡
-Deploy
-⚡Herokku  Vercel  ⚡
-Tools
-⚡VSC  Git Github  Npm  Jamboard  Figma  Balsamiq  Slack  Trello  Discord
+Back:
+⚡NODE & EXPRESS  PHP  
+⚡Database: MONGODB  MYSQL  
+⚡Deploy: Herokku  Vercel  
+⚡Tools: VSC  Git Github  Npm  Jamboard  Figma  Balsamiq  Slack  Trello  Discord
