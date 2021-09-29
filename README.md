@@ -6,15 +6,15 @@
  ⚡ En constante aprendizaje
  ⚡ Buscando aportar valor y aprender de los demás ⚡
 
-STACK:
+Stack:
 
 Front
 ⚡HTML  CSS  JAVASCRIPT  REACT JS   Sass  Bootstrap  Tailwind   
 Back
-⚡NODE & EXPRESS  PHP
+⚡NODE & EXPRESS  PHP  ⚡
 Database
-⚡MONGODB  MYSQL
+⚡MONGODB  MYSQL  ⚡
 Deploy
-⚡Herokku  Vercel
+⚡Herokku  Vercel  ⚡
 Tools
 ⚡VSC  Git Github  Npm  Jamboard  Figma  Balsamiq  Slack  Trello  Discord
