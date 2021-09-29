@@ -4,8 +4,17 @@
 
 
  ⚡ En constante aprendizaje
- ⚡ Buscando aportar valor y aprender de los demás
+ ⚡ Buscando aportar valor y aprender de los demás ⚡
 
+STACK:
 
-
-
+Front
+⚡HTML  CSS  JAVASCRIPT  REACT JS   Sass  Bootstrap  Tailwind   
+Back
+⚡NODE & EXPRESS  PHP
+Database
+⚡MONGODB  MYSQL
+Deploy
+⚡Herokku  Vercel
+Tools
+⚡VSC  Git Github  Npm  Jamboard  Figma  Balsamiq  Slack  Trello  Discord
