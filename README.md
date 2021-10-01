@@ -1,17 +1,19 @@
-¡Bienvenidos! 👋
+¡Welcome, I'm Agos! 👋 Front end developer working at Digital House as Javascript assistant for the Certified Tech Developer career created by Globant.
+I aim to make a difference, propose ideas, learn from others and i'm constantly seeking for better solutions to grow at this wonderful world of development. 
 
-![Ravazenghi (1)](https://user-images.githubusercontent.com/67771188/104816920-f93f9180-57fc-11eb-8e7e-2d96000c04b8.gif)
+![Ravazenghi (1)](https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif)
 
 
- ⚡ En constante aprendizaje
- ⚡ Buscando aportar valor y aprender de los demás ⚡
-
-Stack:
+STACK:
 
 Front:
-⚡HTML  CSS  JAVASCRIPT  REACT JS   Sass  Bootstrap  Tailwind   
+⚡HTML  CSS  JAVASCRIPT  REACT   Sass  Bootstrap  Tailwind   
 Back:
-⚡NODE & EXPRESS  PHP  
-⚡Database: MONGODB  MYSQL  
+⚡NODE  EXPRESS  PHP  
+⚡Database: MONGODB  MYSQL 
 ⚡Deploy: Herokku  Vercel  
-⚡Tools: VSC  Git Github  Npm  Jamboard  Figma  Balsamiq  Slack  Trello  Discord
+⚡Tools: VSC  Git  Github  Npm  Slack  Discord  Trello
+⚡Ux tools: Figma  AdobeXD  Balsamiq  Jamboard
+
+
+Currently learning: Typescript, Next Js
