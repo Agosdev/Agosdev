@@ -7,7 +7,7 @@ Front:
 ⚡HTML  CSS  JAVASCRIPT  REACT   Sass  Bootstrap/Tailwind   
 Back:
 ⚡NODE  EXPRESS  PHP  
-⚡Database: MONGODB  MYSQL 
+⚡Database: MONGODB  Firebase
 ⚡Deploy: Herokku  Vercel  
 ⚡Tools: VSC  Git  Github  Npm  Yarn  Slack  Discord  Trello  Notion
 ⚡Ux tools: Figma  AdobeXD  Balsamiq  Jamboard
