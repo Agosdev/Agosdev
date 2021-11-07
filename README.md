@@ -9,7 +9,7 @@ Back:
 ⚡NODE  EXPRESS  PHP  
 ⚡Database: MONGODB  Firebase
 ⚡Deploy: Herokku  Vercel  
-⚡Tools: VSC  Git  Github  Npm  Yarn  Slack  Discord  Trello  Notion
+⚡Tools: VSC  Git  Github  Gitlab Npm  Yarn  Slack  Discord  Trello  Notion
 ⚡Ux tools: Figma  AdobeXD  Balsamiq  Jamboard
 
 
