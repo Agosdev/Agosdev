@@ -1,16 +1,11 @@
-¡Welcome, I'm Agos! 👋 Front end developer working at Digital House as Javascript assistant for the Certified Tech Developer career created by Globant.
-I aim to make a difference, propose ideas, learn from others and i'm constantly seeking for better solutions to grow at this wonderful world of development. 
+Hi! My friends call me Agos, I'm a 27 years old developer and an enthusiast of technology and art in all of its forms. I enjoy learning and supporting the community, making my friends laugh, spending time outdoors and animals.
 
-Mearn Stack:
+⭐ Currently working on full stack projects with the Mern Stack : MongoDb + Express + Node + React.
+⭐ Other libraries I use: Socket.io, Formik, Styled-components, Dotenv, ThreeJS, Tailwind.
+⭐ Interested in learning Next, Typescript, Apollo / GraphQL.
 
-Front:
-⚡HTML  CSS  JAVASCRIPT  REACT   Sass  Bootstrap/Tailwind   
-Back:
-⚡NODE  EXPRESS  PHP  
-⚡Database: MONGODB  Firebase
-⚡Deploy: Herokku  Vercel  
-⚡Tools: VSC  Git  Github  Gitlab Npm  Yarn  Slack  Discord  Trello  Notion
-⚡Ux tools: Figma  AdobeXD  Balsamiq  Jamboard
-
-
-Currently learning: Typescript, Next Js
+✔ Technical tools: Visual Studio Code. Git / Github / Gitlab. Npm / Yarn.
+✔ Deploy: Vercel / Herokku.
+✔ Communication tools: Slack / Trello / Notion / Discord / Zoom.
+✔ UX Tools: Figma / AdobeXD.
+✔ Agile Scrum methodologies.
