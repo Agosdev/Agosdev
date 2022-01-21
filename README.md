@@ -5,7 +5,7 @@ Hi! My friends call me Agos, I'm a 27 years old developer and an enthusiast of t
 ⭐ Learning Next, Typescript, Apollo / GraphQL. <br />
 
 ✔ Technical tools: Visual Studio Code. Git / Github / Gitlab. Npm / Yarn. <br />
-✔ Deploy: Vercel / Herokku. <br />
+✔ Deploy: Vercel / Heroku. <br />
 ✔ Communication tools: Slack / Trello / Notion / Discord / Zoom. <br />
 ✔ UX Tools: Figma / AdobeXD. <br />
 ✔ Agile Scrum methodologies.
