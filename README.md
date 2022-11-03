@@ -1,8 +1,5 @@
 ✦ Ambition, patience and persistence ✦
-I'm Agos, a 28 years old enthusiast of technology and art in all of its forms.
 
-⭐ Currently React developer going to => MERN stack
-⭐ Other knowledges i aspire to master => Next Js, AWS, Cypress
+I'm Agos, a 28 years old enthusiast of technology and art in all of its forms. I enjoy challenges because the greatest achievement is to always learn.
 
-✔ Tools: Git - Github / Gitlab. Npm / Yarn.
-✔ Deploy: Vercel / Heroku.
+⭐ Interests: Blockchain.
