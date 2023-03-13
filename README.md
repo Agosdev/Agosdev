@@ -3,4 +3,4 @@
 I'm Agos, a 28 years old enthusiast of technology and art in all of its forms. I enjoy challenges because the greatest achievement is to always learn.
 
 ⭐ Learning:  Nest js, AWS
-⭐ Interests: DeFi. Solidity. Blockchain. Web3
+⭐ Interests: Web3. DeFi.
