@@ -2,10 +2,10 @@ Frontend Engineer with 7+ years of experience building web and mobile applicatio
 
 Experienced in frontend development, UI implementation, and integration with REST and GraphQL APIs in Agile environments.
 
-Strong focus on building scalable, maintainable, component-based architectures and improving user experience through clean and consistent interfaces.
+Strong focus on building scalable, maintainable, component-based architectures with a product-oriented mindset, emphasizing performance, code quality, and interface consistency.
 
-Proficient in performance optimization, state management, and collaborative development workflows using Git.
+Experienced in performance optimization, state management, and unit and automated testing to ensure production stability and reliability.
 
-Experienced working in cross-functional teams including product, UX, and engineering stakeholders.
+Collaborates with cross-functional teams including product, UX, and engineering to evolve user flows and define user interfaces.
 
-Currently using AI-assisted development tools (GitHub Copilot, Claude) to improve development speed, refactoring, and documentation workflows.
+Currently using AI-assisted development tools (GitHub Copilot, Claude) to accelerate technical exploration, refactoring, and documentation workflows.
